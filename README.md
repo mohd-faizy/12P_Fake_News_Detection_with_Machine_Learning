@@ -22,45 +22,44 @@ In this project, we will train a Bidirectional Neural Network and LSTM based dee
 > __Prerequisites:__ Python programming language, be familiar with deep learning for Natural Language Processing (NLP), and have trained models with TensorFlow or and its Keras API & TensorFlow.
  
  ## __Dataset__
-
+[Fake.csv](https://raw.githubusercontent.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/main/data/Fake.csv)
+[Real.csv](https://raw.githubusercontent.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/main/data/True.csv)
 
 ## __Project Structure__
 The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided into following tasks:
 
-- __Task__ :zero::one: __
-- __Task__ :zero::two: __
-- __Task__ :zero::three: __
-- __Task__ :zero::four: __ 
-- __Task__ :zero::five: __
-- __Task__ :zero::six: __
-- __Task__ :zero::one: __
-- __Task__ :zero::seven: __
-- __Task__ :zero::eight: __
-- __Task__ :zero::nine: __
+- __Task__ :zero::one: _Cloning the Repository_
+- __Task__ :zero::two: _Import the library and dataset_
+- __Task__ :zero::three: _Prtform the Exploratory Data Analysis_
+- __Task__ :zero::four: _Perform the Data Cleaning_
+- __Task__ :zero::five: _Visualize the CleanUp datatet_
+- __Task__ :zero::six: _Prepare the data by performing tokenization and Padding_
+- __Task__ :zero::one: _Build and Train Model_
+- __Task__ :zero::seven: _Assess Trained Model Performance_
 
 ## __Visualization__
 
-### __Accuracy Curves for Models__
+### __Number of samples in subject__
 
 <p align='center'>
     <a href ='#'>
-        <img src=''>
+        <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/01_samples%20in%20subject.png?raw=true'>
     </a>
 </p>
 
 
-### __Loss Curves for Models__
+### __word cloud for text that is Real__
 <p align='center'>
     <a href ='#'>
-        <img src=''>
+        <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/01_samples%20in%20subject.png?raw=truehttps://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/02_word%20cloud%20for%20text%20that%20is%20Real.png?raw=true'>
     </a>
 </p>
 
-### __`epoch accuracy`__
+### __word cloud for text that is Fake__
 
 <p align='center'>
     <a href ='#'>
-        <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_accuracy_tb.png?raw=true'>
+        <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/03_word%20cloud%20for%20text%20that%20is%20Fake.png?raw=true'>
     </a>
 </p>
 
