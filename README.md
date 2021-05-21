@@ -1,12 +1,12 @@
 # __Fake News Detection with Machine Learning:__
 
-
-
 <p align='center'>
     <a href ='#'>
         <img src='https://images.firstpost.com/wp-content/uploads/2019/03/Fighting-fake-news-includes-monitoring-social-media-2.jpg' height='400' width='800'>
     </a>
 </p>
+
+In this project, we will train a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus & this could be practically used by any media company to automatically predict whether the circulating news is fake or not. The process could be done automatically without having humans manually review thousands of news-related articles.
 
 ## __Objectives__
 
@@ -18,4 +18,68 @@
 - Understand the theory and intuition behind Recurrent Neural Networks and LSTM
 - Build and train the deep learning model
 - Access the performance of the trained model
+
+> __Prerequisites:__ Python programming language, be familiar with deep learning for Natural Language Processing (NLP), and have trained models with TensorFlow or and its Keras API & TensorFlow.
  
+ ## __Dataset__
+
+
+## __Project Structure__
+The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided into following tasks:
+
+- __Task__ :zero::one: __
+- __Task__ :zero::two: __
+- __Task__ :zero::three: __
+- __Task__ :zero::four: __ 
+- __Task__ :zero::five: __
+- __Task__ :zero::six: __
+- __Task__ :zero::one: __
+- __Task__ :zero::seven: __
+- __Task__ :zero::eight: __
+- __Task__ :zero::nine: __
+
+## __Visualization__
+
+### __Accuracy Curves for Models__
+
+<p align='center'>
+    <a href ='#'>
+        <img src=''>
+    </a>
+</p>
+
+
+### __Loss Curves for Models__
+<p align='center'>
+    <a href ='#'>
+        <img src=''>
+    </a>
+</p>
+
+### __`epoch accuracy`__
+
+<p align='center'>
+    <a href ='#'>
+        <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_accuracy_tb.png?raw=true'>
+    </a>
+</p>
+
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][StackExchange AI]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
+[StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
+
+
+---
+
+
+![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
