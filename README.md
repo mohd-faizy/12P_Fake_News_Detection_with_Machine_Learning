@@ -43,7 +43,7 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 
 <p align='center'>
     <a href ='#'>
-        <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/01_samples%20in%20subject.png?raw=true'>
+        <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/01_samples%20in%20subject.png?raw=true' width='600px' height='400px'>
     </a>
 </p>
 
@@ -51,7 +51,7 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 ### __word cloud for text that is Real__
 <p align='center'>
     <a href ='#'>
-        <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/02_word%20cloud%20for%20text%20that%20is%20Real.png?raw=true' width='400px' height='300px'>
+        <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/02_word%20cloud%20for%20text%20that%20is%20Real.png?raw=true'>
     </a>
 </p>
 
