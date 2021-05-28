@@ -37,7 +37,7 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 - __Task__ :zero::one: _Build and Train Model_
 - __Task__ :zero::seven: _Assess Trained Model Performance_
 
-## __Visualization__
+## :red_circle:__Visualization__
 
 ### __Number of samples in subject__
 
@@ -48,14 +48,14 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 </p>
 
 
-### __word cloud for text that is Real__
+### :black_medium_square:__word cloud for text that is Real__
 <p align='center'>
     <a href ='#'>
         <img src='https://github.com/mohd-faizy/12_Fake_News_Detection_with_Machine_Learning/blob/main/_img/02_word%20cloud%20for%20text%20that%20is%20Real.png?raw=true'>
     </a>
 </p>
 
-### __word cloud for text that is Fake__
+### :black_medium_square:__word cloud for text that is Fake__
 
 <p align='center'>
     <a href ='#'>
